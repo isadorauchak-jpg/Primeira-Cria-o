@@ -1,0 +1,40 @@
+   <hr>
+    <h3>Tecnologias usadas:</h3>
+    <ul>
+      <li id="html">HTML</li>
+      <li id="css">CSS</li>
+      <li id="javascript">JavaScript</li>
+    </ul>
+   
+ </body>
+</html>
+
+
+
+
+body{
+ background-color: black;
+ color: white;
+}
+
+
+
+
+
+
+h1{color: hotpink
+}
+ 
+h3{
+ color: blue;
+}
+
+
+#html{color:orange
+}
+#css{color:lightblue
+}
+#javascript{color:rgb(234, 234, 125)
+}
+
+
